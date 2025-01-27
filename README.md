@@ -35,6 +35,6 @@ This repository contains a Power BI report created as part of a technical task f
 <h2 style="font-family: Arial, sans-serif; color: #333;">Contact</h2>
 <p style="font-family: Arial, sans-serif; font-size: 16px; color: #555;">
 For any questions or feedback, feel free to contact me:<br>
-<strong>Name:</strong> Patryk [Your Last Name]<br>
-<strong>Email:</strong> [Your Email Address]
+<strong>Name:</strong> Patryk Żywiec<br>
+<strong>Email:</strong> patryk.zywiecc@gmail.com
 </p>
