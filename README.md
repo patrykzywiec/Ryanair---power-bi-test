@@ -22,12 +22,12 @@ This repository contains a Power BI report created as part of a technical task f
 
 <h2 style="font-family: Arial, sans-serif; color: #333;">File Structure</h2>
 <p style="font-family: Arial, sans-serif; font-size: 16px; color: #555;">
-<code>Report.pbix</code>: The Power BI report file containing all visuals, data modeling, and interactivity.
+<code>Power BI test_Patryk_Żywiec.pbix</code>: The Power BI report file containing all visuals, data modeling, and interactivity.
 </p>
 
 <h2 style="font-family: Arial, sans-serif; color: #333;">How to Use</h2>
 <ol style="font-family: Arial, sans-serif; font-size: 16px; color: #555;">
-  <li>Download the <code>Report.pbix</code> file from this repository.</li>
+  <li>Download the <code>Power BI test_Patryk_Żywiec.pbix</code> file from this repository.</li>
   <li>Open the file in Power BI Desktop.</li>
   <li>Explore the visuals, interact with the report, and use the filters to gain insights.</li>
 </ol>
